@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23"/></h1>
 <h3 align="center">J🇺nior manual QA and Python+Selenium tests automatization </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007F2D&width=435&lines=Working+very+hard+to+find+my+first+job" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007F2D&width=435&lines=Working+hard+to+find+my+dream+job" alt="Typing SVG" /></a>
