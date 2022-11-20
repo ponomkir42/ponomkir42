@@ -4,3 +4,12 @@
 
 <p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007F2D&center=true&vCenter=true&width=435&lines=Working+hard+to+find+my+dream+job" alt="Typing SVG" /></p>
 
+<h3 align="center">Languages and Tools:</h3>
+  <p align="center">  
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium webdriver" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/426053/git.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://www.svgrepo.com/show/325094/db.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="https://www.svgrepo.com/show/376328/jira.svg" alt="jira" width="40" height="40"/> </a>
+</p>
